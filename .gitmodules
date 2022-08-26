@@ -1,21 +1,28 @@
 [submodule "share/catkin_ws/src/realsense2_description"]
 	path = share/catkin_ws/src/realsense2_description
 	url = https://github.com/hoo223/realsense2_description.git
+	branch = master
 [submodule "share/catkin_ws/src/robotiq"]
 	path = share/catkin_ws/src/robotiq
 	url = https://github.com/hoo223/robotiq.git
+	branch = master
 [submodule "share/catkin_ws/src/universal_robot"]
 	path = share/catkin_ws/src/universal_robot
 	url = https://github.com/hoo223/universal_robot.git
+	branch = master
 [submodule "share/catkin_ws/src/ur10_teleop_interface"]
 	path = share/catkin_ws/src/ur10_teleop_interface
 	url = https://github.com/hoo223/ur10_teleop_interface.git
+	branch = master
 [submodule "share/catkin_ws/src/realsense_gazebo_plugin"]
 	path = share/catkin_ws/src/realsense_gazebo_plugin
 	url = https://github.com/hoo223/realsense_gazebo_plugin.git
+	branch = master
 [submodule "share/catkin_ws/src/Geomagic_Touch_ROS_Drivers"]
 	path = share/catkin_ws/src/Geomagic_Touch_ROS_Drivers
 	url = https://github.com/hoo223/Geomagic_Touch_ROS_Drivers.git
+	branch = master
 [submodule "share/catkin_ws/src/ur10_rl_interface"]
 	path = share/catkin_ws/src/ur10_rl_interface
 	url = https://github.com/hoo223/ur10_rl_interface.git
+	branch = master
