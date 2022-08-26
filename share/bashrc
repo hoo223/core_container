@@ -112,7 +112,7 @@ alias rg='rqt_graph'
 alias tree='rosrun rqt_tf_tree rqt_tf_tree'
 alias con_list='rosrun controller_manager controller_manager list'
 
-alias gazebo='roslaunch ur_gazebo ur10_joint_limited_2f85.launch'
+alias gazebo='roslaunch ur_gazebo ur10_joint_limited_2f85_d435.launch'
 alias gc='roslaunch ur10_teleop_interface gazebo_config.launch'
 alias mgi='roslaunch ur10_teleop_interface move_group_interface.launch'
 alias ti='roslaunch ur10_teleop_interface teleop_interface.launch'
