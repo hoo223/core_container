@@ -1,0 +1,3 @@
+[submodule "share/catkin_ws/src/realsense2_description"]
+	path = share/catkin_ws/src/realsense2_description
+	url = https://github.com/hoo223/realsense2_description.git
