@@ -31,5 +31,5 @@
 	url = https://github.com/hoo223/natural_cubic_spliner.git
 	update = merge
 [submodule "share/catkin_ws/src/ROS-TCP-Endpoint"]
-	path = share/catkin_ws/src/ROS-TCP-Endpoint
+	path = share/catkin_ws/src/unity/ROS-TCP-Endpoint
 	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
