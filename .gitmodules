@@ -33,3 +33,6 @@
 [submodule "share/catkin_ws/src/ROS-TCP-Endpoint"]
 	path = share/catkin_ws/src/unity/ROS-TCP-Endpoint
 	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+[submodule "share/catkin_ws/src/unity/unity_robotics_demo_msgs"]
+	path = share/catkin_ws/src/unity/unity_robotics_demo_msgs
+	url = https://github.com/hoo223/unity_robotics_demo_msgs.git
