@@ -120,7 +120,7 @@ alias msa='roslaunch moveit_setup_assistant setup_assistant.launch'
 
 alias ut='roslaunch ros_tcp_endpoint endpoint.launch'
 alias uhi='roslaunch unity_ros_control unity_hardware_interface.launch'
-alias unity_bringup='roslaunch unity_ros_control unity_bringup.launch'
+alias unity_bringup='roslaunch ur10_teleop_interface unity_bringup.launch'
 
 source /opt/ros/melodic/setup.bash
 source ~/share/catkin_ws/devel/setup.bash
