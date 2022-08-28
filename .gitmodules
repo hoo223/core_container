@@ -36,3 +36,6 @@
 [submodule "share/catkin_ws/src/unity/unity_robotics_demo_msgs"]
 	path = share/catkin_ws/src/unity/unity_robotics_demo_msgs
 	url = https://github.com/hoo223/unity_robotics_demo_msgs.git
+[submodule "share/catkin_ws/src/unity/unity_ros_control"]
+	path = share/catkin_ws/src/unity/unity_ros_control
+	url = https://github.com/hoo223/unity_ros_control.git
