@@ -22,10 +22,6 @@
 	path = share/catkin_ws/src/Geomagic_Touch_ROS_Drivers
 	url = https://github.com/hoo223/Geomagic_Touch_ROS_Drivers.git
 	update = merge
-[submodule "share/catkin_ws/src/ROS-TCP-Endpoint"]
-	path = share/catkin_ws/src/unity/ROS-TCP-Endpoint
-	url = https://github.com/hoo223/ROS-TCP-Endpoint.git
-	update = merge
 [submodule "share/catkin_ws/src/unity/unity_robotics_demo_msgs"]
 	path = share/catkin_ws/src/unity/unity_robotics_demo_msgs
 	url = https://github.com/hoo223/unity_robotics_demo_msgs.git
