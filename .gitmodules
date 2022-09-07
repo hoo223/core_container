@@ -30,3 +30,6 @@
 	path = share/catkin_ws/src/unity/unity_ros_control
 	url = https://github.com/hoo223/unity_ros_control.git
 	update = merge
+[submodule "share/catkin_ws/src/unity/ROS-TCP-Endpoint"]
+	path = share/catkin_ws/src/unity/ROS-TCP-Endpoint
+	url = https://github.com/hoo223/ROS-TCP-Endpoint.git
