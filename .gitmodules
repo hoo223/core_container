@@ -26,10 +26,6 @@
 	path = share/catkin_ws/src/ur10_rl_interface
 	url = https://github.com/hoo223/ur10_rl_interface.git
 	update = merge
-[submodule "share/catkin_ws/src/natural_cubic_spliner"]
-	path = share/catkin_ws/src/natural_cubic_spliner
-	url = https://github.com/hoo223/natural_cubic_spliner.git
-	update = merge
 [submodule "share/catkin_ws/src/ROS-TCP-Endpoint"]
 	path = share/catkin_ws/src/unity/ROS-TCP-Endpoint
 	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
