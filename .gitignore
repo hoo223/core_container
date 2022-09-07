@@ -2,3 +2,13 @@ share/catkin_ws/.catkin_workspace
 share/catkin_ws/build/
 share/catkin_ws/devel/
 share/catkin_ws/src/CMakeLists.txt
+
+share/catkin_ws/src/.vscode/browse.vc.db
+
+share/catkin_ws/src/.vscode/browse.vc.db-shm
+
+share/catkin_ws/src/.vscode/browse.vc.db-wal
+
+share/catkin_ws/src/.vscode/c_cpp_properties.json
+
+share/catkin_ws/src/.vscode/settings.json
