@@ -3,6 +3,7 @@ share/catkin_ws/build/
 share/catkin_ws/devel/
 share/catkin_ws/src/CMakeLists.txt
 
+<<<<<<< Updated upstream
 share/catkin_ws/src/.vscode/browse.vc.db
 
 share/catkin_ws/src/.vscode/browse.vc.db-shm
@@ -12,3 +13,10 @@ share/catkin_ws/src/.vscode/browse.vc.db-wal
 share/catkin_ws/src/.vscode/c_cpp_properties.json
 
 share/catkin_ws/src/.vscode/settings.json
+=======
+share/.Trash-0/
+
+share/catkin_ws/src/build/
+
+share/catkin_ws/src/.vscode/
+>>>>>>> Stashed changes
